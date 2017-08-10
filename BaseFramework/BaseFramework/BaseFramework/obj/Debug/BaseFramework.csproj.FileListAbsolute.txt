@@ -1,0 +1,46 @@
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\bin\Debug\BaseFramework.dll
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\bin\Debug\BaseFramework.pdb
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\bin\Debug\GalaSoft.MvvmLight.dll
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\bin\Debug\GalaSoft.MvvmLight.pdb
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\bin\Debug\GalaSoft.MvvmLight.xml
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\obj\Debug\BaseFramework.csprojResolveAssemblyReference.cache
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\obj\Debug\BaseFramework.MainPage.xaml.g.cs
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\obj\Debug\BaseFramework.App.xaml.g.cs
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\obj\Debug\BaseFramework.dll
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\obj\Debug\BaseFramework.pdb
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\obj\Debug\BaseFramework.dll.mdb
+c:\users\shamnad.mh\documents\visual studio 2015\Projects\BaseFramework\BaseFramework\BaseFramework\bin\Debug\BaseFramework.dll.mdb
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\bin\Debug\BaseFramework.dll
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\bin\Debug\BaseFramework.pdb
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\obj\Debug\BaseFramework.csprojResolveAssemblyReference.cache
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\obj\Debug\BaseFramework.MainPage.xaml.g.cs
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\obj\Debug\BaseFramework.App.xaml.g.cs
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\obj\Debug\BaseFramework.dll
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\obj\Debug\BaseFramework.pdb
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\obj\Debug\BaseFramework.dll.mdb
+C:\Users\shamnad.mh\Documents\Source\Repos\trialrepository\BaseFramework\BaseFramework\BaseFramework\bin\Debug\BaseFramework.dll.mdb
